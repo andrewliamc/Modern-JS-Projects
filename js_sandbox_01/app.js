@@ -1,5 +1,6 @@
 // Log to Console
 
+// PRIMITIVES
 // string 
 console.log('Hello World'); 
 
@@ -15,6 +16,7 @@ var greeting = 'Hello';
 // printing the meaning of the variable 'greeting'
 console.log(greeting);
 
+// NOT PRIMITIVE, CAN CHANGE BUT NOT BE REASSIGNED
 // an array
 console.log([1,2,3,4]);
 
