@@ -1,4 +1,4 @@
-// Primitive Data Types
+Numb// Primitive Data Types
 // String
 const name = 'John Doe';
 // Number
